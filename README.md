@@ -1,4 +1,4 @@
-# ml_vision_flutter
+# ocr_flutter
 
 A new Flutter project.
 
