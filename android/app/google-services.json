@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797365504973",
+    "project_id": "ml-vision-flutter-a985c",
+    "storage_bucket": "ml-vision-flutter-a985c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797365504973:android:f0c0da1256db2de4135284",
+        "android_client_info": {
+          "package_name": "com.example.ml_vision_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797365504973-tnp4tdh99kh4k5nq1q11hejr9rkv02v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ml_vision_flutter",
+            "certificate_hash": "ef9895a890741c89dff4b710cfaa423ae3923de2"
+          }
+        },
+        {
+          "client_id": "797365504973-1cg8i74tq5c67m5che45fu39q375v8sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_0Di50EaGxo4QDrQaKjBYmRlBtE2g2Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797365504973-1cg8i74tq5c67m5che45fu39q375v8sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
